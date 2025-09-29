@@ -65,6 +65,7 @@ namespace TravelBuddyAPI
             app.MapControllers();
 
             app.Run();
+
         }
     }
 }
